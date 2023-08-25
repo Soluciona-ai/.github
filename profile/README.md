@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial da **Soluciona.ai**! Somos uma empresa de tecn
 
 ## 🐾 ConnTagPet - Um scan, um reencontro
 
-Nosso principal cliente é a **ConnTagPet**, uma solução revolucionária para a identificação de pets. Através de um simples scan de um pingente, os usuários são direcionados para uma página estática que fornece todas as informações necessárias para o reencontro com seu pet amado.
+Nosso principal cliente e parceiro é a **ConnTagPet**, uma solução revolucionária para a identificação de pets. Através de um simples scan de um pingente, os usuários são direcionados para uma página estática que fornece todas as informações necessárias para o reencontro com seu pet amado.
 
 - **Como funciona?**
   1. O pet usa um pingente especial com um código.
