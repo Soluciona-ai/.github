@@ -1,8 +1,9 @@
-# 🚀 Soluciona.ai
+# Soluciona.ai
 
 Bem-vindo ao repositório oficial da **Soluciona.ai**! Somos uma empresa de tecnologia focada na criação de software sob demanda e no desenvolvimento de produtos inovadores. Aqui, você encontrará informações sobre nossos projetos, tutoriais e muito mais.
 
-<img src="https://www.soluciona.ai/wp-content/uploads/2020/09/Logo1.png" alt="Imagem Soluciona Ai" width="500px">
+<img src="https://github.com/user-attachments/assets/53c71a92-c714-400d-a898-f43a5d7edb8a" width="400">
+
 
 ## 🐾 ConnTagPet - Um scan, um reencontro
 
@@ -13,7 +14,9 @@ Nosso principal cliente e parceiro é a **ConnTagPet**, uma solução revolucion
   2. Quando alguém encontra o pet, basta escanear o pingente usando o aplicativo ConnTagPet.
   3. O scanner direciona para uma página com informações de contato do dono, facilitando o reencontro.
 
-<img src="https://conntagpet.com.br/wp-content/uploads/2023/08/logo_slogan_alpha.png" alt="Imagem ConnTagPet" width="500px">
+<img src="https://github.com/user-attachments/assets/9879f1bf-80dc-46ce-adc6-cd09b144d652" width="400">
+
+
 
 ## 🎓 Aulas & Tutoriais
 
