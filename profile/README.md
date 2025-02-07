@@ -17,21 +17,9 @@ Nosso principal cliente e parceiro é a **ConnTagPet**, uma solução revolucion
 <img src="https://github.com/user-attachments/assets/9879f1bf-80dc-46ce-adc6-cd09b144d652" width="400">
 
 
-
-## 🎓 Aulas & Tutoriais
-
-Na **Soluciona.ai**, acreditamos no poder da educação e do compartilhamento de conhecimento. Por isso, oferecemos aulas e tutoriais sobre diversos tópicos relacionados à tecnologia, programação e desenvolvimento de software.
-
-- **O que oferecemos?**
-  - Aulas práticas e teóricas.
-  - Tutoriais passo a passo.
-  - Conteúdo atualizado e relevante para o mercado.
-
-Fique à vontade para explorar nossos materiais e aprender conosco!
-
 ## 🎯 Objetivo da Soluciona.ai
 
-Nossa missão é desenvolver soluções tecnológicas que atendam às necessidades específicas de nossos clientes, ao mesmo tempo em que contribuímos para a formação e capacitação de profissionais da área. Acreditamos na combinação de inovação, educação e tecnologia como pilares para um mundo melhor.
+Nossa missão é desenvolver soluções tecnológicas que atendam às necessidades específicas de nossos clientes, ao mesmo tempo em que contribuímos para a evolução da área de tecnologia.
 
 ## 📞 Entre em Contato
 
